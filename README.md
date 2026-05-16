@@ -267,7 +267,7 @@ Modelo seleccionado: RandomForest
 
     pip install -r requirements.txt
 
-    Elecutar pipiline completo
+    Ejecutar pipiline completo
     python -m src.main
 
     Ejecutar predicción
