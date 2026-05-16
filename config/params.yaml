@@ -1,0 +1,25 @@
+# ============================================================
+#  MLOps Churn Project — Configuración centralizada
+#  Rol: MLOps Engineer (Isay Morales)
+# ============================================================
+
+data:
+  test_size: 0.2
+  random_state: 42
+
+model:
+  # Opciones: "RandomForest" | "LogisticRegression" | "SVM"
+  name: "RandomForest"
+
+  # Hiperparámetros RandomForest
+  n_estimators: 100
+  max_depth: 10
+
+  # Hiperparámetros LogisticRegression / SVM
+  C: 1.0
+  max_iter: 1000
+  kernel: "rbf"
+
+paths:
+  raw: "data/raw/WA_Fn-UseC_-Telco-Customer-Churn.csv"
+  model_save: "models/model.pkl"
