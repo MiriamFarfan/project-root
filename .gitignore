@@ -206,3 +206,7 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 project-root/
+
+#Para no subir el data set 
+data/raw/
+data/processed/
