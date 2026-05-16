@@ -210,3 +210,16 @@ project-root/
 #Para no subir el data set 
 data/raw/
 data/processed/
+
+# Ignorar artefactos generados
+models/
+
+# Ignorar notebooks
+*.ipynb
+
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
