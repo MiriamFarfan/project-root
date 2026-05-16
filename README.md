@@ -250,14 +250,16 @@ Modelo seleccionado: RandomForest
 | Recall     | 0.5362 |
 | F1 Score   | 0.6024 |
 
-El pipeline fue ejecutado exitosamente mediante:
+    Predicción: NO CHURN
+    Probabilidad de Churn: 12.90%
+    
 
-```bash
-python -m src.main
+    El pipeline fue ejecutado exitosamente mediante:
 
-Predicción: NO CHURN
-Probabilidad de Churn: 12.90%
----
+    ```bash
+    python -m src.main
+
+
 
 ## ▶️ Ejecución del Proyecto
 
