@@ -130,5 +130,5 @@ churn-mlops-project/
 - **Uso Claude**: Generé la estructura de la función `load_and_preprocess_data()` y validé el manejo de valores nulos en `TotalCharges`.
 
 ### 👤 QA Engineer - Carolina Ruiz Gudiño
-- **Herramienta**: Claude
+- **Herramienta**: Claude.
 - **Uso de IA**: "Claude me ayudó a generar el esqueleto de las pruebas unitarias con pytest para validar el pipeline."
