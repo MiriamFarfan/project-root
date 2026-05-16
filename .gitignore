@@ -209,13 +209,13 @@ project-root/
 
 #Para no subir el data set 
 data/raw/
-data/processed/
+#data/processed/ Coemntado para subir el data set procesado
 
 # Ignorar artefactos generados
 models/
 
 # Ignorar notebooks
-*.ipynb
+#*.ipynb
 
 
 # Archivos temporales de Python
