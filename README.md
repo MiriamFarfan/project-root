@@ -129,6 +129,10 @@ churn-mlops-project/
 - **Uso ChatGPT**: Usé ChatGPT para entender para comprender el flujo de trabajo con Git (creación de ramas, commits y Pull Requests) y resolver dudas sobre cómo estructurar los archivos del proyecto.
 - **Uso Claude**: Generé la estructura de la función `load_and_preprocess_data()` y validé el manejo de valores nulos en `TotalCharges`.
 
+### 👤 ML Engineer - José Ángel García Valle 
+-Me apoyé con Claude para crear la estructura base de la función train_and_save_model con el patrón de fábrica de modelos (if/elif) para seleccionar entre RandomForest, LogisticRegression y SVM.
+-También Claude ayudó a estructurar el cálculo de las 3 métricas: accuracy, recall y f1_score.
+
 ### 👤 QA Engineer - Carolina Ruiz Gudiño
 - **Herramienta**: Claude.
 - **Uso de IA**: "Claude me ayudó a generar el esqueleto de las pruebas unitarias con pytest para validar el pipeline."
