@@ -27,6 +27,31 @@ def load_and_preprocess_data(config: dict):
     df["Churn"]   = df["Churn"].map(binary_map)
  
     print("[data_loader] Codificación binaria aplicada: gender, Partner, Churn")
+
+    # Codificación One-Hot para variables categóricas restantes
+    multiclass_columns = [
+    'Dependents',
+    'PhoneService',
+    'MultipleLines',
+    'InternetService',
+    'OnlineSecurity',
+    'OnlineBackup',
+    'DeviceProtection',
+    'TechSupport',
+    'StreamingTV',
+    'StreamingMovies',
+    'Contract',
+    'PaperlessBilling',
+    'PaymentMethod'
+]
+
+    df = pd.get_dummies(
+    df,
+    columns=multiclass_columns,
+    drop_first=False
+)
+
+    print("[data_loader] One-Hot Encoding aplicado")
  
     # Separación de features(X) y target(y)
     X = df.drop(columns=["Churn"])

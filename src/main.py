@@ -16,7 +16,7 @@ if ROOT not in sys.path:
     sys.path.insert(0, ROOT)
 
 from src.data_loader import load_and_preprocess_data
-from src.trainer_model import train_and_save_model
+from src.model_trainer import train_and_save_model
 
 
 def load_config(path="config/params.yaml"):
