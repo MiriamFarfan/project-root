@@ -135,4 +135,4 @@ churn-mlops-project/
 
 ### 👤 QA Engineer - Carolina Ruiz Gudiño
 - **Herramienta**: Claude.
-- **Uso de IA**: "Claude me ayudó a generar el esqueleto de las pruebas unitarias con pytest para validar el pipeline."
+- **Uso de IA**: Me ayudó Claude a generar el esqueleto de las pruebas unitarias con pytest para validar el pipeline. 
