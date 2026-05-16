@@ -265,19 +265,15 @@ Modelo seleccionado: RandomForest
 
     ### Instalar dependencias
 
-    ```bash
     pip install -r requirements.txt
 
     Elecutar pipiline completo
-    ```bash
     python -m src.main
 
     Ejecutar predicción
-    ```bash
     python -m src.predict
 
     Ejecutar pruebas unitarias 
-    ```bash
     python -m pytest
 ---    
     
