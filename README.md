@@ -126,7 +126,7 @@ churn-mlops-project/
 
 ### 👤 Data Engineer - Miriam Jacquelin Becerra Farfán 
 - **Herramienta**: ChatGPT/Claude 
-- **Uso ChatGPT**: Usé ChatGPT para entender para comprender el flujo de trabajo con Git (creación de ramas, commits y Pull Requests) y resolver dudas sobre cómo estructurar los archivos del proyecto.
+- **Uso ChatGPT**: Usé ChatGPT para comprender el flujo de trabajo con Git (creación de ramas, commits y Pull Requests) y resolver dudas sobre cómo estructurar los archivos del proyecto.
 - **Uso Claude**: Generé la estructura de la función `load_and_preprocess_data()` y validé el manejo de valores nulos en `TotalCharges`.
 
 ### 👤 ML Engineer - José Ángel García Valle 
