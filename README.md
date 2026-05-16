@@ -261,25 +261,26 @@ Modelo seleccionado: RandomForest
 
 
 
-## ▶️ Ejecución del Proyecto
+    ## ▶️ Ejecución del Proyecto
 
-### Instalar dependencias
+    ### Instalar dependencias
 
-```bash
-pip install -r requirements.txt
+    ```bash
+    pip install -r requirements.txt
 
-Elecutar pipiline completo
-```bash
-python -m src.main
+    Elecutar pipiline completo
+    ```bash
+    python -m src.main
 
-Ejecutar predicción
-```bash
-python -m src.predict
+    Ejecutar predicción
+    ```bash
+    python -m src.predict
 
-Ejecutar pruebas unitarias 
-```bash
-python -m pytest
-
+    Ejecutar pruebas unitarias 
+    ```bash
+    python -m pytest
+---    
+    
 ### 👤 Data Engineer - Miriam Jacquelin Becerra Farfán 
 - **Herramienta**: ChatGPT/Claude 
 - **Uso ChatGPT**: Usé ChatGPT para comprender el flujo de trabajo con Git (creación de ramas, commits y Pull Requests) y resolver dudas sobre cómo estructurar los archivos del proyecto.
