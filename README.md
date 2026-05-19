@@ -1,8 +1,6 @@
 📡 Proyecto Colaborativo MLOps: Predicción de Churn (Abandono de Clientes)
-
 🎯 Objetivo del Proyecto
 Construir un pipeline de Machine Learning modular, reproducible y colaborativo para predecir si un cliente de telecomunicaciones abandonará el servicio (Churn).
-
 El proyecto simula un entorno laboral real donde 4 roles especializados deben integrar su código en un solo repositorio usando Git.
 ---
 📂 El Dataset
