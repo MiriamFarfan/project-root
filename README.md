@@ -269,10 +269,6 @@ Probabilidad de Churn: 12.90%
 ### 👤 ML Engineer — José Ángel García Valle
 - **Claude:** Me apoyé para crear la estructura base de la función `train_and_save_model` con el patrón de fábrica de modelos (`if/elif`) para seleccionar entre RandomForest, LogisticRegression y SVM. También ayudó a estructurar el cálculo de las 3 métricas: accuracy, recall y f1_score.
 
-### 👤 MLOps Engineer — [Nombre del integrante]
-- **Herramienta:** [completar]
-- **Uso:** [completar]
-
 ### 👤 QA & Production Engineer — Carolina Ruiz Gudiño
 - **Claude:** Me ayudó a generar el esqueleto de las pruebas unitarias con pytest para validar el pipeline.
 
