@@ -134,13 +134,13 @@ pip install -r requirements.txt
 El archivo `requirements.txt` incluye todas las librerías necesarias con versiones fijas para garantizar reproducibilidad:
 
 ```
-pandas==2.2.2
-scikit-learn==1.5.0
-joblib==1.4.2
-pyyaml==6.0.1
-flask==3.0.3
-pytest==8.2.2
-numpy==1.26.4
+pandas ==2.3.1
+numpy ==2.0.2
+scikit-learn ==1.6.1
+joblib ==1.5.3
+pyyaml ==6.0.3
+pytest ==8.4.2  
+
 ```
 
 ---
