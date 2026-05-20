@@ -272,6 +272,8 @@ Probabilidad de Churn: 12.90%
 ### 👤 QA & Production Engineer — Carolina Ruiz Gudiño
 - **Claude:** Me ayudó a generar el esqueleto de las pruebas unitarias con pytest para validar el pipeline.
 
+### 👤 MLOps Engineer — Isay Morales
+- **Claude:** Me apoyé para estructurar el `config/params.yaml` con las secciones correctas (`data`, `model`, `paths`) que necesitaban el Data Engineer y el ML Engineer. También me ayudó a escribir el `main.py` que conecta ambos módulos y orquesta el pipeline completo con un solo comando (`python -m src.main`).
 ---
 
 ## 📄 Documentación adicional
